@@ -1,7 +1,7 @@
 # Stop Watch
 A java library that provides thread safe implimentation of stop watch
 
- [![GitHub license](https://img.shields.io/github/license/Priytam/stopwatch.svg)](https://github.com/Priytam/stopwatch/blob/master/LICENSE)
+ [![GitHub license](https://img.shields.io/github/license/Priytam/stopwatch)](https://github.com/Priytam/stopwatch/blob/master/LICENSE)
  [![Build Status](https://travis-ci.org/Priytam/stopwatch.svg?branch=master)](https://travis-ci.org/Priytam/stopwatch)
  [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.priytam/stopwatch/badge.svg)](https://search.maven.org/search?q=g:com.github.priytam%20AND%20a:stopwatch)
  
