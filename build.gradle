@@ -100,3 +100,5 @@ nexusStaging {
     username = ossrhUser
     password = ossrhPassword
 }
+
+/* use this command to publish library ./gradlew build -Prelease uploadArchives */
